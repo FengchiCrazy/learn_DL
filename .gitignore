@@ -1,4 +1,6 @@
 *.pyc
 *.swp
+
 text/data/
 text/docs/
+text/results/
